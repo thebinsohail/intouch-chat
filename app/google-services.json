@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98092576564",
+    "project_id": "intouch-d806a",
+    "storage_bucket": "intouch-d806a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98092576564:android:e529582812012282be7f61",
+        "android_client_info": {
+          "package_name": "net.jitsi.intouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98092576564-at6ud7ccari8b1t6skvh9629c3l38sgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUoNxtdlwSM3AjKspQj-kYX1Tx_9JuII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98092576564-at6ud7ccari8b1t6skvh9629c3l38sgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
